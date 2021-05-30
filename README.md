@@ -2,5 +2,5 @@
   <hr/>
   <p>Ｃｈａｎｇｅ　ｔｈｅ　ｗｏｒｌｄ！</p>
   <hr/>
-  <img src="https://i.imgur.com/dMTOkrv.png"; />
+  <img src="旗幟.PNG"; />
 </div>
